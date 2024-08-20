@@ -6,4 +6,4 @@ background: '/img/bg-about.jpg'
 ---
 
 # About Me
-https://ddspys.github.io/online-cv/
+[Young Sun Park's CV](https://ddspys.github.io/online-cv/)
