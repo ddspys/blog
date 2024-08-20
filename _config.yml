@@ -1,6 +1,6 @@
-title:              Blog
+title:              Young Sun Park's Blog
 email:              ddspys@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Technical & Life Blog
 author:             Young Sun Park
 baseurl:            "/blog"
 url:                "https://ddspys.github.io"
@@ -9,7 +9,7 @@ url:                "https://ddspys.github.io"
 twitter_username:   
 github_username:    ddspys
 facebook_username:  
-instagram_username:  
+instagram_username:  coffeejoongdokja
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
