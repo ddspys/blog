@@ -2,8 +2,8 @@ title:              Young Sun Park's Blog
 email:              ddspys@gmail.com
 description:        Technical & Life Blog
 author:             Young Sun Park
-baseurl:            "/blog"
-url:                "https://ddspys.github.io"
+baseurl:            "blog/"
+url:                "https://ddspys.github.io/"
 
 # Social Profiles
 twitter_username:   
